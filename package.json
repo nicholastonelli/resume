@@ -11,5 +11,5 @@
 }
 
 "bin": {
-  "your-command-here": "./index.js"
+  "your-command-here": "index.js"
 },
